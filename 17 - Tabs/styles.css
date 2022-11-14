@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Montserrat&display=swap');
+
+
+.tabs {
+  display: grid;
+}
+
+[role="tablist"] {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+
+}
+
+[role="tabpanel"] {
+  background: #3d3b3c;
+  padding: 2rem;
+  text-align: center;
+  font-size: 5em;
+  font-family: 'Bungee Shade', cursive;
+  color: tomato;
+  border-radius: 0 0 5px 5px;
+}
+
+button {
+  background: tomato;
+  border: 0;
+  color: black;
+  border-radius: 5px 5px 0 0;
+  --bs-color: rgba(0,0,0,0.1);
+  box-shadow: inset 0 -2px 5px var(--bs-color);
+  cursor:pointer;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+button[aria-selected="true"] {
+  background: tomato;
+  box-shadow: none;
+  color: #3d3b3c;
+}
+
+button:focus {
+  outline: 0;
+  background: #3d3b3c;
+  color: tomato;
+}
