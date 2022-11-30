@@ -1,6 +1,6 @@
 # Movie Seat Booking
 
-### Contains featuring like updating UI and Storing/Retriving the data from/in a local storage234
+### Contains featuring like updating UI and Storing/Retriving the data from/in a local storage1234
 
 ![Untitled](https://user-images.githubusercontent.com/20695270/204607593-0aa20352-4170-482e-a837-76259dcf9c30.png)
 
