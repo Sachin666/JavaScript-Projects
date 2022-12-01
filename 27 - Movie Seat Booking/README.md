@@ -1,6 +1,13 @@
 # Movie Seat Booking
 
-### Contains featuring like updating UI and Storing/Retriving the data from/in a local storage
+Display movie choices and seats in a theater to select from in order to purchase tickets
+
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect seats
+- User can not select occupied seats
+- Number of seats and price will update
+- Save seats, movie and price to local storage so that UI is still populated on refresh
 
 ![Untitled](https://user-images.githubusercontent.com/20695270/204607593-0aa20352-4170-482e-a837-76259dcf9c30.png)
 
