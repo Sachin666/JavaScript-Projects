@@ -9,7 +9,7 @@ const progressContainer = document.getElementById("progress-container");
 const title = document.getElementById("title");
 const cover = document.getElementById("cover");
 
-// Song titles
+// Song title
 const songs = ["hey", "summer", "ukulele"];
 
 // Keep track of song
