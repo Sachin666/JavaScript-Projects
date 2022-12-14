@@ -1,6 +1,6 @@
 ## Memory Cards
 
-Flash card app for learning. Display, add and remove memory cards with questions and answers
+Flash card app for learning. Display, add and remove memory cards with questions and answers.
 - Create flip cards using CSS
 - Create "Add new card" overlay with form
 - Display question cards and flip for answer
