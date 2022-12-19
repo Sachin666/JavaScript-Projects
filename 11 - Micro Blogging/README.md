@@ -1,6 +1,6 @@
 # Simple Micro Blogging App
 
-### Contains the features like Creating, Searching and Deleting Post with help of JSON server and JSON database..
+### Contains the features like Creating, Searching and Deleting Post with help of JSON server and JSON database
 
 #### json-server --watch data/db.json
 
