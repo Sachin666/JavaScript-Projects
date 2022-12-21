@@ -1,4 +1,4 @@
-# BlackJack Game.
+# BlackJack Game...
 
 ### Random card number generated and updating the dom elements
 
