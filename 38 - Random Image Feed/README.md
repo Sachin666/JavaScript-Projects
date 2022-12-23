@@ -1,11 +1,8 @@
-## Exchange Rate
+## Random Image Feed
 
-Select countries to get the exchange rate for a specific amount
+Random Image Scrolling Effect
 
 ## Project Specifications
 
-- Display UI with 2 select lists for countries and 2 inputs for amounts
-- Fetch exchange rates from API (https://api.exchangerate-api.com)
-- Display the values for both countries
-- Update values on amount change
-- Swap country rates
+- Display UI With Random Images
+- Fetch Random Image from (https://source.unsplash.com/random)
