@@ -1,11 +1,10 @@
-## Meal Finder App
+## Movie App
 
-Search and generate random meals from the [themealdb.com](www.themealdb.com) API
+Search Movies from (https://www.themoviedb.org) API
+- Display UI with form to search Movies
+- Connect to API and get Movies
+- Display Movie in DOM with image and hover effect
 
-## Project Specifications
 
-- Display UI with form to search and button to generate
-- Connect to API and get meals
-- Display meals in DOM with image and hover effect
-- Click on meal and see the details
-- Click on generate button and fetch & display a random meal
+![Untitled](https://user-images.githubusercontent.com/20695270/209477054-b5bc8a83-5b92-4003-b1d1-cb219e0dc685.png)<hr>
+![Untitled1](https://user-images.githubusercontent.com/20695270/209477055-a49599c0-48bf-4793-b6d6-d7926eac88c6.png)
