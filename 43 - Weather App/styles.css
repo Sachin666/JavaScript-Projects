@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin: 0;
+  background: linear-gradient(300deg, #ced1d6, #bfc0c0);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+input {
+  background: #fff;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  font-family: inherit;
+  padding: 1rem;
+  font-size: 1rem;
+}
+
+input:focus {
+  outline: none;
+}
+
+.weather {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.weather h2 {
+  margin-bottom: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.weather img {
+  transform: scale(1);
+}
