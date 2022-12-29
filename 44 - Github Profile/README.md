@@ -1,7 +1,10 @@
-# Shopping list
+## Weather App
 
-### Contains features like storing the data in a local storage and mark as complete and delete the data
+Search and generate specific User from the (https://api.github.com/users) API
 
-![Untitled](https://user-images.githubusercontent.com/20695270/204332814-1f9eea1a-1201-4656-99c7-5ab1355ad9ab.png)
-<hr>
-![Untitled1](https://user-images.githubusercontent.com/20695270/204332820-8f7ce72a-a6a7-4c2f-bc15-ac73c4339e08.png)
+- Display UI with form to search Specific User
+- Connect to API and get User Profile
+
+![Untitled](https://user-images.githubusercontent.com/20695270/209969241-164fca21-054c-497d-8f7d-866e65a62623.png)<hr>
+![Untitled1](https://user-images.githubusercontent.com/20695270/209969245-d3145aff-99e3-40ce-a96f-318f4d2a181d.png)
+
