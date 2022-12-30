@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap");
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: rebeccapurple;
+  color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.pw-container {
+  width: 400px;
+  background: rgba(46, 18, 80);
+  border-radius: 5px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.pw-header {
+  padding: 1rem;
+}
+
+.pw {
+  background: rgba(69, 28, 109);
+  border-radius: 5px;
+  display: flex;
+  font-size: 2rem;
+  align-items: center;
+  height: 70px;
+  width: 100%;
+  position: relative;
+  padding: 1rem;
+  font-weight: 400;
+}
+
+.pw button {
+  background: whitesmoke;
+  color: rgba(29, 2, 56);
+  border: none;
+  border-radius: 5px;
+  padding: 0.25rem 1rem;
+  font-weight: bold;
+  font-family: inherit;
+  position: absolute;
+  top: 0;
+  right: 0;
+  transform: translate(0, -50%);
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.pw:hover button {
+  opacity: 1;
+  transform: translate(0, -80%);
+}
+
+.pw-body {
+  padding: 0 1rem 1rem;
+}
+
+.form-control {
+  display: flex;
+  justify-content: space-between;
+  margin: 0.75rem 0;
+}
+
+.generate {
+  background: #ecb602;
+  color: rebeccapurple;
+  display: block;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  width: 100%;
+}
